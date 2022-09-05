@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/variable/Montserrat-VF.woff2") format("truetype-variations");
+  font-style: normal;
+  font-weight: 1 1000; }
+
+  @font-face {
+    font-family: "Montserrat";
+    src: url("fonts/variable/Montserrat-Italic-VF.woff2") format("truetype-variations");
+    font-style: italic;
+    font-weight: 1 1000; }
